@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>React</title>
+</head>
+
+<body>
+    <h1>Hello on top of root</h1>
+    <div id="root">
+        <h1>Asish T Babu</h1>
+        <!-- "the above html is replaced when app.js loads because we are creating an element inside root using javascript so the current tag inside the root element is replaced by the element from the app.js" -->
+    </div>
+    <h1>Hello on below of root</h1>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <!-- first script is the core of react and the second one is react dom this is the react library for perform dom operations -->
+    <!-- why there are two CDN available? because react work on mobile and web so one is core react, it will work on both mobile and web but the second one react-dom which only work in web -->
+    <script src="./App.js">
+    </script>
+</body>
+</html>
+<!-- 
+The react can work inside a small portion of html independently, It is not a full fledged framework
+framework is a framework which comes with all loads of things 
+all framework require needs to create whole app using that framework but react can work in the existing app aswelll-->
