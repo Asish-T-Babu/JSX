@@ -60,6 +60,8 @@ ReactElement -> is an object ->becomes html when browser understand
     </div>
 </div>*/}
 
+import React from "react"
+import ReactDOM from "react-dom"
 const heading1 = React.createElement('h1',{},"I am an h1 tag!")
 const heading2 = React.createElement('h2',{},"I am an h2 tag!")
 const parent = React.createElement(
