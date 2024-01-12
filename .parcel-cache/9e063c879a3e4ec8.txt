@@ -22,7 +22,7 @@
 79C:\Users\ajotb\Desktop\react\node_modules\css-tree\cjs\lexer\prepare-tokens.cjs133491212639070274 0
 76C:\Users\ajotb\Desktop\react\node_modules\type-fest\ts41\delimiter-case.d.ts133491212621836638 0
 61C:\Users\ajotb\Desktop\react\node_modules\nth-check\README.md133491212623901756 0
-33C:\Users\ajotb\Desktop\react\dist133494700377844044 1
+33C:\Users\ajotb\Desktop\react\dist133494732301749350 1
 65C:\Users\ajotb\Desktop\react\node_modules\csso\lib\replace\atrule133491212637041702 1
 50C:\Users\ajotb\Desktop\react\node_modules\escalade133491212614232618 1
 90C:\Users\ajotb\Desktop\react\node_modules\@swc\helpers\_\_object_spread_props\package.json133491212652046152 0
@@ -32,7 +32,7 @@
 54C:\Users\ajotb\Desktop\react\node_modules\svgo\LICENSE133491212607133365 0
 75C:\Users\ajotb\Desktop\react\node_modules\css-tree\lib\syntax\node\Value.js133491212651205530 0
 59C:\Users\ajotb\Desktop\react\node_modules\lmdb\src\misc.cpp133491212639181587 0
-35C:\Users\ajotb\Desktop\react\App.js133492142148234947 0
+35C:\Users\ajotb\Desktop\react\App.js133494732300520495 0
 73C:\Users\ajotb\Desktop\react\node_modules\caniuse-lite\data\regions\NF.js133491212679474762 0
 78C:\Users\ajotb\Desktop\react\node_modules\@parcel\core\test\fixtures\bundle.js133491212658962421 0
 67C:\Users\ajotb\Desktop\react\node_modules\resolve-from\package.json133491212605367796 0
@@ -48,7 +48,7 @@
 103C:\Users\ajotb\Desktop\react\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133491212674156643 0
 59C:\Users\ajotb\Desktop\react\node_modules\svgo\package.json133491212628889536 0
 60C:\Users\ajotb\Desktop\react\node_modules\lmdb\node-index.js133491212642004836 0
-39C:\Users\ajotb\Desktop\react\index.html133492120595848857 0
+39C:\Users\ajotb\Desktop\react\index.html133494710220479502 0
 52C:\Users\ajotb\Desktop\react\node_modules\json5\dist133491212626070427 1
 69C:\Users\ajotb\Desktop\react\node_modules\to-regex-range\package.json133491212604280669 0
 73C:\Users\ajotb\Desktop\react\node_modules\caniuse-lite\data\regions\BR.js133491212636329839 0
@@ -1997,7 +1997,7 @@
 85C:\Users\ajotb\Desktop\react\node_modules\caniuse-lite\data\features\online-status.js133491212680940910 0
 81C:\Users\ajotb\Desktop\react\node_modules\css-tree\lib\syntax\config\generator.js133491212646137106 0
 109C:\Users\ajotb\Desktop\react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\README.md133491212663705814 0
-55C:\Users\ajotb\Desktop\react\dist\index.7826abd7.js.map133494700377825858 0
+55C:\Users\ajotb\Desktop\react\dist\index.7826abd7.js.map133494732301740257 0
 99C:\Users\ajotb\Desktop\react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\css-tools.js133491212669692024 0
 74C:\Users\ajotb\Desktop\react\node_modules\css-what\lib\commonjs\index.d.ts133491212624524385 0
 86C:\Users\ajotb\Desktop\react\node_modules\caniuse-lite\data\features\variable-fonts.js133491212688407331 0
@@ -2264,7 +2264,7 @@
 101C:\Users\ajotb\Desktop\react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133491212631124457 0
 97C:\Users\ajotb\Desktop\react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133491212634820072 0
 97C:\Users\ajotb\Desktop\react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133491212640819193 0
-44C:\Users\ajotb\Desktop\react\dist\index.html133494700377729239 0
+44C:\Users\ajotb\Desktop\react\dist\index.html133494732003836088 0
 100C:\Users\ajotb\Desktop\react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\LICENSE133491212664640116 0
 83C:\Users\ajotb\Desktop\react\node_modules\csso\lib\restructure\8-restructRuleset.js133491212630887911 0
 96C:\Users\ajotb\Desktop\react\node_modules\@parcel\optimizer-svgo\node_modules\css-select\LICENSE133491212670441146 0
@@ -6026,6 +6026,6 @@
 51C:\Users\ajotb\Desktop\react\node_modules\.bin\svgo133491212707321411 0
 73C:\Users\ajotb\Desktop\react\node_modules\.bin\update-browserslist-db.cmd133491212707321411 0
 73C:\Users\ajotb\Desktop\react\node_modules\.bin\update-browserslist-db.ps1133491212707321411 0
-51C:\Users\ajotb\Desktop\react\dist\index.7826abd7.js133494700377738076 0
-52C:\Users\ajotb\Desktop\react\dist\index.9e4c6fd2.css133494700377175318 0
-56C:\Users\ajotb\Desktop\react\dist\index.9e4c6fd2.css.map133494700377281416 0
+51C:\Users\ajotb\Desktop\react\dist\index.7826abd7.js133494732301644848 0
+52C:\Users\ajotb\Desktop\react\dist\index.9e4c6fd2.css133494732003037366 0
+56C:\Users\ajotb\Desktop\react\dist\index.9e4c6fd2.css.map133494732003089158 0
